@@ -2,9 +2,9 @@
 
 # Download custom rom
 
-google
-
 find your device
+
+google it
 
 flash the custom rom
 
