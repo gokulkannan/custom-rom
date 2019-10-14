@@ -4,6 +4,8 @@
 
 google
 
+find your device
+
 flash the custom rom
 
 Reboot
